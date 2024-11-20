@@ -69,4 +69,4 @@ target_directory = "cloned_repos"
 clone_repositories(github_user_or_org, target_directory, personal_access_token)
 
 script_file_path = __file__ 
-format_code_with_black(script_file_path)
+format_code_with_black(clone_repo_for_org.py)

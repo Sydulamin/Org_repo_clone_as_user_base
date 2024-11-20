@@ -53,8 +53,6 @@ Copy code
 After the script runs, it will automatically format the code using Black.
 
 ## Example Configuration
-![image](https://github.com/user-attachments/assets/ac6c7200-b280-443d-a685-a7b808a5854d)
-
 
 ## Admin Role
 python
